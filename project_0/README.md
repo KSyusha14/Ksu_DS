@@ -1,21 +1,21 @@
 # Проект 0. Угадай число
 
 ## Оглавление
-[1. Описание проекта](https://github.com/Alex-Lekov/sf_data_science/tree/main/project_0/README.md#Описание-проекта)
+[1. Описание проекта](https://github.com/KSyusha14/Ksu_DS/blob/main/project_0/README.md#Описание-проекта)
 
-[2. Какой кейс решаем?](https://github.com/Alex-Lekov/sf_data_science/tree/main/project_0/README.md#Какой-кейс-решаем)
+[2. Какой кейс решаем?](https://github.com/KSyusha14/Ksu_DS/blob/main/project_0/README.md#Какой-кейс-решаем)
 
-[3. Краткая информация о данных](https://github.com/Alex-Lekov/sf_data_science/tree/main/project_0/README.md#Краткая-информация-о-данных)
+[3. Краткая информация о данных](https://github.com/KSyusha14/Ksu_DS/blob/main/project_0/README.md#Краткая-информация-о-данных)
 
-[4. Этапы работы над проектом](https://github.com/Alex-Lekov/sf_data_science/tree/main/project_0/README.md#Этапы-работы-над-проектом)
+[4. Этапы работы над проектом](https://github.com/KSyusha14/Ksu_DS/blob/main/project_0/README.md#Этапы-работы-над-проектом)
 
-[5. Результат](https://github.com/Alex-Lekov/sf_data_science/tree/main/project_0/README.md#Результат)
-[6. Выводы](https://github.com/Alex-Lekov/sf_data_science/tree/main/project_0/README.md#Выводы)
+[5. Результат](https://github.com/KSyusha14/Ksu_DS/blob/main/project_0/README.md#Результат)
+[6. Выводы](https://github.com/KSyusha14/Ksu_DS/blob/main/project_0/README.md#Выводы)
 
 ## Описание проекта
 Угадать загаданное компьютером число за минимальное число попыток.
 
-:arrow_up:[к оглавлению](https://github.com/alex-sokolov2011/skillfactory_rds/blob/master/module_7/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/KSyusha14/Ksu_DS/blob/main/project_0/README.md#Оглавление)
 
 
 ### Какой кейс решаем?
@@ -41,7 +41,7 @@
 ### Краткая информация о данных 
 Рандомно программа задает число от 0 до 100 и пытается угадать  
 
-:arrow_up: [к оглавлению](https://github.com/alex-sokolov2011/scillfactory_rds/blob/master/module_7/README.MD#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/KSyusha14/Ksu_DS/blob/main/project_0/README.md#Оглавление)
 
 
 ### Этапы работы над проектом
@@ -50,7 +50,7 @@
 2 этап. Метод корекции
 
 3 этап. Бинарным алгоритмом
-:arrow_up: [к оглавлению](https://github.com/alex-sokolov2011/scillfactory_rds/blob/master/module_7/README.MD#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/KSyusha14/Ksu_DS/blob/main/project_0/README.md#Оглавление)
 
 
 ### Результаты:
@@ -60,13 +60,13 @@
 
 3 этап. Среднее количество попыток равнялось 6
 
-:arrow_up: [к оглавлению](https://github.com/alex-sokolov2011/scillfactory_rds/blob/master/module_7/README.MD#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/KSyusha14/Ksu_DS/blob/main/project_0/README.md#Оглавление)
 
 
 ### Выводы:
 Условие снизить количество попыток ниже 20 - выполнено
 
 Использование бинарного алгоритма в несколько раз увеличивает скорость поиска числа!!!
-:arrow_up: [к оглавлению](https://github.com/alex-sokolov2011/scillfactory_rds/blob/master/module_7/README.MD#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/KSyusha14/Ksu_DS/blob/main/project_0/README.md#Оглавление)
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️
